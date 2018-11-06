@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoder","timestamp":1540287599511,"sparkVersion":"2.1.2","uid":"oneHot_cb4d3c3f9eae","paramMap":{"outputCol":"land_Vec","dropLast":true,"inputCol":"land_index"}}
